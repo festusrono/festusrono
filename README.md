@@ -25,16 +25,18 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap CSS](https://img.shields.io/badge/-Bootstrap_CSS-38B2AC?logo=bootstrap-css&logoColor=white)
 
 **Backend Development**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-3776AB?logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-3776AB?logo=Java&logoColor=white)
 ![BringBoot](https://img.shields.io/badge/-SpringBoot-3776AB?logo=springboot&logoColor=white)
 
 **Mobile Development**  
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
-
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-7F52FF?logo=androidStudio&logoColor=white)
 ---
 
 ### 🏆 Featured Project
