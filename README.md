@@ -49,10 +49,10 @@ A modern full-stack food ordering system featuring:
 - Real-time order tracking
 - Responsive design across all devices
 ---
-[![IMS Feedback Management System](https://img.shields.io/badge/🚀_Food_Order_Platform-FF6B6B?style=for-the-badge)](https://food-order-website-psi.vercel.app/) 
-[![KYN APP -Know Your Network ](https://img.shields.io/badge/🚀_Food_Order_Platform-FF6B6B?style=for-the-badge)]()
-[![SPMS Smart Parking Management System](https://img.shields.io/badge/🚀_Food_Order_Platform-FF6B6B?style=for-the-badge)]() 
-[![BoG App -Boots On Ground](https://img.shields.io/badge/🚀_Food_Order_Platform-FF6B6B?style=for-the-badge)]() 
+[![IMS Feedback Management System](https://img.shields.io/badge/🚀_Food_Order_Platform-FF6B6B?style=for-the-badge)](https://customers-feedback-delta.vercel.app/) 
+[![KYN APP -Know Your Network ](https://img.shields.io/badge/🚀_Food_Order_Platform-FF6B6B?style=for-the-badge)](https://smart-parking-management-system-2.vercel.app/)
+[![SPMS Smart Parking Management System](https://img.shields.io/badge/🚀_Food_Order_Platform-FF6B6B?style=for-the-badge)](https://smart-parking-management-system-2.vercel.app/) 
+[![BoG App -Boots On Ground](https://img.shields.io/badge/🚀_Food_Order_Platform-FF6B6B?style=for-the-badge)](https://smart-parking-management-system-2.vercel.app/) 
 
 ### 🛠️ Development Toolkit
 
