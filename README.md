@@ -26,6 +26,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Bootstrap CSS](https://img.shields.io/badge/-Bootstrap_CSS-38B2AC?logo=bootstrap-css&logoColor=white)
+![Django Template Engine](https://img.shields.io/badge/-DjangoTemplateEngine-F7DF1E?logo=djangotemplateengine&logoColor=black)
 
 **Backend Development**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
@@ -49,8 +50,9 @@ A modern full-stack food ordering system featuring:
 - Responsive design across all devices
 ---
 [![IMS Feedback Management System](https://img.shields.io/badge/🚀_Food_Order_Platform-FF6B6B?style=for-the-badge)](https://food-order-website-psi.vercel.app/) 
-[![KYN APP ](https://img.shields.io/badge/🚀_Food_Order_Platform-FF6B6B?style=for-the-badge)](https://food-order-website-psi.vercel.app/) 
-[![SPMS Smart Parking Management System](https://img.shields.io/badge/🚀_Food_Order_Platform-FF6B6B?style=for-the-badge)](https://food-order-website-psi.vercel.app/) 
+[![KYN APP -Know Your Network ](https://img.shields.io/badge/🚀_Food_Order_Platform-FF6B6B?style=for-the-badge)]()
+[![SPMS Smart Parking Management System](https://img.shields.io/badge/🚀_Food_Order_Platform-FF6B6B?style=for-the-badge)]() 
+[![BoG App -Boots On Ground](https://img.shields.io/badge/🚀_Food_Order_Platform-FF6B6B?style=for-the-badge)]() 
 
 ### 🛠️ Development Toolkit
 
